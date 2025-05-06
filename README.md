@@ -17,7 +17,7 @@ This is a machine learning project to classify emotions from text using Logistic
 - `tfidf_vectorizer.pkl`: saved vectorizer
 - `app.py`: Streamlit app
 - `requirements.txt`: dependencies
-- `notebook.ipynb`: training and evaluation code (optional)
+- `notebook.ipynb`: training and evaluation code 
 
 ## 🚀 How to Run It Locally
 
